@@ -1,0 +1,22 @@
+li {
+  list-style-type: none;
+}
+
+body {
+  background-color: #020202;
+}
+
+/* 版心 */
+.w {
+  width: 100%;
+  margin: 0 auto;
+}
+
+a:hover {
+  color: #00a596!important;
+  
+}
+
+a {
+  text-decoration: none;
+}
